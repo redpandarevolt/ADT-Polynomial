@@ -1,6 +1,6 @@
 # ADT-Polynomial
 
-### Summer 2019 Data Structures and Algorithms, UW Bothell 
+### Summer 2019 Data Structures, Algorithms, and Discrete Mathematics II, UW Bothell
 
 ##### Purpose
 
